@@ -127,3 +127,21 @@ underscore
 weibo
 xmlbuilder
 ```
+
+
+## List of Userful Packages
+```
+telerik:kendo-ui-core-default-theme           - Kendo UI 
+mjn:famous                                    - Famo.us framework intergration, UI designs
+awsp:validatejs                               - Validate.js
+underscore                                    - Underscore Library
+iron:layout                                   - Iron Layout, dynamic layout
+iron:router                                   - Iron Router, routing
+accounts-base, accounts-ui, accounts-password - Authentication
+sanjo:jasmine                                 - Jasmine BDD Testing Frameworks
+velocity:html-reporter                        - Testing UI, reporter
+momentjs:moment                               - MomentJS, date, time calculation, formatter
+benmgreene:moment-range                       - MomentJS Range
+less                                          - Less support
+urigo:angular                                 - AngularJS intergration
+```
