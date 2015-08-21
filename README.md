@@ -14,7 +14,10 @@ benmgreene:moment-range                       - MomentJS Range
 less                                          - Less support
 urigo:angular                                 - AngularJS intergration
 kadira:flow-router-ssr                        - Similar to Iron Router, this package of flow router comes with SSR support, bring better SEO to Meteor.js, see example: https://github.com/awsp/hello-react-meteor
-kadira:dochead                                - Used to control document head section in Meteor.js, combines with flow-router-ssr will give page source code get its own title and meta tags
+kadira:dochead                                - Used to control document head section in Meteor.js, combines with flow-router-ssr will give page source code get its own title and meta tags.
+wolves:bourbon                                - Bourbon is a library of pure Sass mixins that are designed to be simple and easy to use. 
+wolves:neat                                   - A lightweight, semantic grid framework built on top of Bourbon.
+wolves:bitters                                - Scaffold styles, variables and structure for Bourbon projects.
 ```
 
 
