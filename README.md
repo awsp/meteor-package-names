@@ -1,3 +1,24 @@
+## List of Userful Packages
+```
+telerik:kendo-ui-core-default-theme           - Kendo UI 
+mjn:famous                                    - Famo.us framework intergration, UI designs
+awsp:validatejs                               - Validate.js
+underscore                                    - Underscore Library
+iron:layout                                   - Iron Layout, dynamic layout
+iron:router                                   - Iron Router, routing
+accounts-base, accounts-ui, accounts-password - Authentication
+sanjo:jasmine                                 - Jasmine BDD Testing Frameworks
+velocity:html-reporter                        - Testing UI, reporter
+momentjs:moment                               - MomentJS, date, time calculation, formatter
+benmgreene:moment-range                       - MomentJS Range
+less                                          - Less support
+urigo:angular                                 - AngularJS intergration
+kadira:flow-router-ssr                        - Similar to Iron Router, this package of flow router comes with SSR support, bring better SEO to Meteor.js, see example: https://github.com/awsp/hello-react-meteor
+kadira:dochead                                - Used to control document head section in Meteor.js, combines with flow-router-ssr will give page source code get its own title and meta tags
+```
+
+
+
 When writing own packages, it is required to pull some of packages from Meteor in order to work.
 For example, `templating` for `Template.[templateName].helpers()` to work
 
@@ -126,22 +147,4 @@ ui
 underscore
 weibo
 xmlbuilder
-```
-
-
-## List of Userful Packages
-```
-telerik:kendo-ui-core-default-theme           - Kendo UI 
-mjn:famous                                    - Famo.us framework intergration, UI designs
-awsp:validatejs                               - Validate.js
-underscore                                    - Underscore Library
-iron:layout                                   - Iron Layout, dynamic layout
-iron:router                                   - Iron Router, routing
-accounts-base, accounts-ui, accounts-password - Authentication
-sanjo:jasmine                                 - Jasmine BDD Testing Frameworks
-velocity:html-reporter                        - Testing UI, reporter
-momentjs:moment                               - MomentJS, date, time calculation, formatter
-benmgreene:moment-range                       - MomentJS Range
-less                                          - Less support
-urigo:angular                                 - AngularJS intergration
 ```
